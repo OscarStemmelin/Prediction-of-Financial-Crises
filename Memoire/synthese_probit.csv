@@ -1,0 +1,17 @@
+pays,modele,scope,TP,TN,FP,FN,auc,pseudo_r2
+France,Probit Enrichi,IS,1,77,1,3,0.948718,0.4285516936
+France,Probit Enrichi,OOS,0,36,3,3,0.512821,
+France,Probit Simple,IS,0,78,0,4,0.701923,0.04287369
+France,Probit Simple,OOS,0,39,0,3,0.598291,
+Germany,Probit Enrichi,IS,0,74,0,8,0.787162,0.1664631557
+Germany,Probit Enrichi,OOS,0,36,2,4,0.480263,
+Germany,Probit Simple,IS,0,74,0,8,0.722973,0.0880857749
+Germany,Probit Simple,OOS,0,38,0,4,0.532895,
+UK,Probit Enrichi,IS,4,78,0,0,1,0.9718397676
+UK,Probit Enrichi,OOS,0,38,2,2,0.5875,
+UK,Probit Simple,IS,0,78,0,4,0.929487,0.3025273758
+UK,Probit Simple,OOS,0,40,0,2,0.8875,
+US,Probit Enrichi,IS,5,71,2,4,0.954338,0.5780466115
+US,Probit Enrichi,OOS,1,29,11,1,0.825,
+US,Probit Simple,IS,1,73,0,8,0.853881,0.2538429201
+US,Probit Simple,OOS,0,40,0,2,0.9375,
